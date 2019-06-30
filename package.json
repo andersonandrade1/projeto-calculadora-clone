@@ -1,0 +1,27 @@
+{
+  "name": "projeto-calculadora-clone",
+  "version": "1.0.0",
+  "description": "Projeto de calculadora em HTML, css e javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andersonandrade1/projeto-calculadora-clone.git"
+  },
+  "keywords": [
+    "html5",
+    "css",
+    "js"
+  ],
+  "author": "Anderson Andrade <andersonandrade1@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andersonandrade1/projeto-calculadora-clone/issues"
+  },
+  "homepage": "https://github.com/andersonandrade1/projeto-calculadora-clone#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
